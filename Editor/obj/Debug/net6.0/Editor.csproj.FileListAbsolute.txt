@@ -1,0 +1,15 @@
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\bin\Debug\net6.0\Editor.exe
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\bin\Debug\net6.0\Editor.deps.json
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\bin\Debug\net6.0\Editor.runtimeconfig.json
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\bin\Debug\net6.0\Editor.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\bin\Debug\net6.0\Editor.pdb
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.csproj.AssemblyReference.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.AssemblyInfoInputs.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.AssemblyInfo.cs
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.csproj.CoreCompileInputs.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\refint\Editor.dll
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.pdb
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\Editor.genruntimeconfig.cache
+C:\Users\marck\OneDrive\Área de Trabalho\Estudos\C#\Editor\obj\Debug\net6.0\ref\Editor.dll
